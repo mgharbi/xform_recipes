@@ -1,0 +1,6 @@
+Pillow==2.9.0
+argparse==1.2.1
+numpy==1.9.2
+scikit-image==0.11.3
+scikit-learn==0.16.0
+scipy==0.13.3

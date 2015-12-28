@@ -1,0 +1,7 @@
+
+!.gitkeep
+.DS_Store
+*.pyc
+*.so
+tags
+output/**

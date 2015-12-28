@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecipeMobile</string>
+    <string name="button_download">download</string>
+    <string name="button_local_processing">local</string>
+    <string name="button_naive_cloud">naive</string>
+    <string name="button_recipe_cloud">recipe</string>
+</resources>
