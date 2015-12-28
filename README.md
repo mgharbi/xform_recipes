@@ -22,6 +22,7 @@ Citation
 
 If you use any part of this code, please cite our paper:
 
+```
 @article{Gharbi:2015:TRE:2816795.2818127,
     author = {Gharbi, Micha\"{e}l and Shih, YiChang and Chaurasia, Gaurav and Ragan-Kelley, Jonathan and Paris, Sylvain and Durand, Fr{\'e}do},
     title = {Transform Recipes for Efficient Cloud Photo Enhancement},
@@ -42,4 +43,5 @@ If you use any part of this code, please cite our paper:
     address = {New York, NY, USA},
     keywords = {energy-efficient cloud computing, image filter approximation, mobile image processing},
 }
+```
 
