@@ -1,12 +1,12 @@
 Transform Recipes for Efficient Cloud Photo Enhancement (2015)
 ==============================================================
 
-Michael Gharbi          <gharbi@mit.edu>,
-Yichang Shih            <yichang@mit.edu>,
-Gaurav Chaurasia        <gchauras@mit.edu>,
-Sylvain Paris           <sparis@adobe.com>,
-Jonathan Ragan-Kelley   <jrk@cs.stanford.edu>,
-Fredo Durand            <fredo@mit.edu>
+- Michael Gharbi          <gharbi@mit.edu>,
+- Yichang Shih            <yichang@mit.edu>,
+- Gaurav Chaurasia        <gchauras@mit.edu>,
+- Sylvain Paris           <sparis@adobe.com>,
+- Jonathan Ragan-Kelley   <jrk@cs.stanford.edu>,
+- Fredo Durand            <fredo@mit.edu>
 
 This repository contains two implementation of our Transform Recipes paper.
 `xform_python` is a complete implementation in python. Use this version for quality comparison.
