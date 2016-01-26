@@ -1,3 +1,4 @@
 build/
 *_wrap*
 mghimproc.py
+*.so
