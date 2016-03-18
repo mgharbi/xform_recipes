@@ -1,7 +1,17 @@
+# -------------------------------------------------------------------
+# File:    setup.py
+# Author:  Michael Gharbi <gharbi@mit.edu>
+# Created: 2016-01-26
+# -------------------------------------------------------------------
+# 
+# 
+# 
+# ------------------------------------------------------------------#
+
+
 from distutils.core import setup,Extension
 
 import numpy
-import os
 
 try:
     numpy_include = numpy.get_include()
@@ -10,15 +20,10 @@ except AttributeError:
 
 # print numpy_include
 
-if os.getenv("DJANGO_ENV") == "PROD":
-    cargs = [
-        "-std=c99",
-        "-static",
-        "-O3"
-    ]
-else:
-    cargs = []
-cargs += [
+cargs = [
+    "-std=c99",
+    # "-static",
+    "-O3",
     "-I",
     "/System/Library/Frameworks/vecLib.framework/Headers",
     "-I",
