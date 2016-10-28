@@ -1,4 +1,4 @@
-Transform Recipes for Efficient Cloud Photo Enhancement (2015)
+Transform Recipes for Efficient Cloud Photo Enhancement (Siggraph Asia 2015)
 ==============================================================
 
 - Michael Gharbi          <gharbi@mit.edu>,
